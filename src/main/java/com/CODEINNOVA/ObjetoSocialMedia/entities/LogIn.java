@@ -1,4 +1,4 @@
-package com.CODEINNOVA.ObjetoSocialMedia;
+package com.CODEINNOVA.ObjetoSocialMedia.entities;
 
 import jakarta.persistence.*;
 
